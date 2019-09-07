@@ -1,5 +1,5 @@
 # Deep-Learning-Recommender-System
-- Siddharth Chandrasekar, 2018
+Siddharth Chandrasekar, 2018
 Project work from my 7th semester at PSG College of Technology.
 Counted towards my graduation dissertation.
 
